@@ -1,0 +1,22 @@
+.user-box{
+    border: 1px solid #666;
+    padding:15px;
+    margin: 10px;
+    position: relative;
+    display: inline-block;
+}
+
+.main-btn{
+    padding: 10px 25px;
+    border: 1px solid #333;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.plus-icon{
+    color: rgb(122, 175, 37);
+    background:rgb(250, 250, 250);
+    margin-left: 5px;
+    font-size: 20px;
+}
+
